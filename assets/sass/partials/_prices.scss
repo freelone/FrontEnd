@@ -1,0 +1,139 @@
+#prices{
+	background-color: white;
+	font-family: 'Lato', sans-serif;
+	hr{
+	width: 60%;
+	background-color:  #808080;
+	}
+	h2{
+	margin-top: 67px;
+	font-size: 45px;
+    font-weight: 300;
+	span{
+	color: $blueColor;	
+	}
+	}
+	p{
+	line-height: 25px;
+	}
+	.individual, .studio, .enterprise{
+	background-color: #F7F7F7;
+	margin-top: 88px;
+	.prices{
+	background-color: #F0F0F1;	
+	}
+	.options{
+	padding-top: 36px;
+	color: #BEBEBE;
+	span{
+	color:  #a6a6a6;
+	font-weight: 600;
+	}
+	p:nth-child(2){
+	padding-top: 20px;
+	padding-bottom: 10px;
+	}
+	p:nth-child(3){
+	padding-top: 20px;
+	padding-bottom: 10px;
+	}
+	p:nth-child(4){
+	padding-top: 20px;
+	padding-bottom: 40px;
+	}
+	}
+	h3{
+	color: #8d8d8d;
+    padding: 20px 0 18px;
+    font-size: 25px;
+	font-weight: 300;
+	}
+	h1{
+	color: #BEBEBE;	
+	font-size: 115px;
+	font-weight: 100;
+	padding-top: 35px;
+	}
+	h6{
+	color: #CACACA;
+	font-size: 15px;
+	font-weight: 300;
+	padding-bottom: 16px;
+	}
+	}
+	.studio, .enterprise{
+	p{color: black;
+	span{
+	font-weight: 600;
+	color: black !important;
+	}
+	}
+	h3{
+	color: #626262;
+	}
+	h1{
+	color: #1AC6FF;
+	font-size: 115px;
+	font-weight: 100;
+	padding-top: 35px;
+	}
+	h6{
+	color: #1AC6FF;	
+	font-size: 15px;
+	padding-bottom: 16px;
+	font-weight: 300;
+	}
+	}
+	.studio:hover, .enterprise:hover{
+	background-color:  #4dd2fe;
+	h3{
+	color: white;	
+	}
+	h1{
+	color: white;
+	background-color: #65c6e6;
+	}
+	h6{
+	background-color: #65c6e6;
+	color: white;
+	}
+	.options p{
+	color: white;
+	span{
+	color: white !important;	
+	}
+	}
+	.btnTwo:hover, .btnThree:hover{
+	background-color: white;
+	color:  #4dd2fe;
+	border: 1px solid white;
+	}
+	}
+	.btn{
+	background-color: transparent;
+	border: 1px solid #B6B6B6;
+	border-radius: 3px;
+	color: #BBBBBB;
+	width: 253px;
+	height: 46px;
+	text-decoration: none;
+	margin-top: 45px;
+	margin-bottom: 51px;
+	}
+	.btnTwo, .btnThree{
+	border: 1px solid #a2e1f6;
+	color: #a2e1f6;
+	}
+	.awards{
+	margin-top: 13px;
+	}
+	.logo{
+	margin-top: 93px;	
+	}
+	.dollarSymbol{
+	font-size: 47px;
+	vertical-align: super;
+	font-weight: 400;
+	}
+}
+

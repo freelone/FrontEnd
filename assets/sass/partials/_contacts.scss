@@ -1,0 +1,64 @@
+#contacts{
+	font-family: 'Lato', sans-serif;
+	.col-md-4{
+	padding-top: 77px;	
+	}
+	p{
+	color: white;
+	font-size: 15px;
+    line-height: 1.6;
+	padding-top: 10px;
+	}
+	h5{
+	color: white;
+	font-size: 15px;
+    line-height: 1.6;
+	font-weight: 600;
+	}
+	h4{
+	color: white;
+	font-weight: 500;
+	font-size: 16px;
+	}
+	.fa-map-marker{
+	padding-bottom: 10px;	
+	}
+	a{
+	color: #2CB0E4;	
+	}
+	.loc{
+	display: inline-block;	
+	}
+	.list-inline{
+	span{
+	color: #2CB0E4;	
+	font-size: 25px;
+	padding: 10px;
+	text-decoration: none;
+	padding: 0;
+	padding-left: 25px;
+	font-size: 50px;
+	padding-top: 24px;
+	font-weight: 500;
+	}
+	p{
+	color: white;
+	font-size: 14px;
+    font-weight: 300;
+	padding-top: 100px;
+	padding-bottom: 38px;
+	}	
+	.icon{
+	color: #2CB0E4;	
+	}
+	}
+	.footer{
+	p{
+	color: white;
+	font-size: 14px;
+    font-weight: 300;
+	padding-top: 100px;
+	padding-bottom: 38px;
+	}	
+	}
+}
